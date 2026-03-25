@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Noob Bot",
   "bot-account": {
     "username": "wemmbu",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "xarkama.aternos.me:28130",
+    "ip": "xarkama.aternos.me",
     "port": 28130,
     "version": "",
     "try-creative": false
