@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "xarkama.aternos.me",
-    "port": 28130,
+    "ip": "vaimr.aternos.me",
+    "port": 13824,
     "version": "",
     "try-creative": false
   },
